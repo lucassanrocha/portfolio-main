@@ -1,0 +1,59 @@
+{
+  "name": "Lucas Rocha",
+  "photo": "https://avatars.githubusercontent.com/u/114454198?s=400&u=6c522a9a27e094f8fa16fe873f31344958d300ae&v=4",
+  "job": "Junio Desenvolver",
+  "location": "São Paulo - SP",
+  "phone": "(11) 94106-2962",
+  "email": "lucassanrocha@gmail.com",
+  "skills": {
+    "hardSkills": [
+
+      {
+        "name": "Java Script",
+        "logo": "https://raw.githubusercontent.com/lucassanrocha/js-developer-portfolio/main/data/imgs/js.png"
+      },
+      
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/lucassanrocha/js-developer-portfolio/main/data/imgs/css.png"
+      },
+      
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+      }
+  
+    ],
+    "softSkills": [
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (Basico)",
+    "Espanhol (Basico)"
+  ],
+  "portfolio": [
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
+      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Operador de Maquinhas / Fundação Jovem Profissional",
+      "period": "2014 - até o momento",
+      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+    }
+  
+  ]
+}
